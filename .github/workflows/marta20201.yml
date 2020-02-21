@@ -1,9 +1,9 @@
-name: CI
+name: marra20201
 
 on: [push]
 
 jobs:
-  build:
+  build: 3D
 
     runs-on: ubuntu-latest
 
